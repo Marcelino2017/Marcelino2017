@@ -1,37 +1,37 @@
-<p align="right"><a href="https://github.com/Marcelino2017">🇪🇸 Español</a> · <b>🇺🇸 English</b></p>
+<p align="right"><a href="https://github.com/Marcelino2017">🇺🇸 English</a> · <b>🇪🇸 Español</b></p>
 
-<h1 align="center">Hi, I'm Marcelino Mejía 👋</h1>
-<h3 align="center">Full Stack Developer · PHP/Laravel · Vue · React · Node</h3>
+<h1 align="center">Hola, soy Marcelino Mejía 👋</h1>
+<h3 align="center">Desarrollador Full Stack · PHP/Laravel · Vue · React · Node</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelinomejiaba%C3%B1os"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:marcelinomebe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Remote-UTC--5-2ea44f?style=for-the-badge" alt="Remote UTC-5"/>
+  <img src="https://img.shields.io/badge/Remoto-UTC--5-2ea44f?style=for-the-badge" alt="Remoto UTC-5"/>
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### 🧑‍💻 Sobre mí
 
-Systems Engineer (Universidad del Magdalena) with **5+ years** building web applications in production. I specialize in **Laravel** backends and **Vue.js** / **React** frontends, from data modeling all the way to server deployment.
+Ingeniero de Sistemas (Universidad del Magdalena) con **más de 5 años** construyendo aplicaciones web en producción. Me especializo en backends con **Laravel** y frontends con **Vue.js** y **React**, desde el modelado de datos hasta el despliegue en servidor.
 
-- 🏢 Currently: Full Stack Developer at **Tecbaco** (Laravel + Vue.js) — agricultural software and Highcharts reporting.
-- 💼 I also freelance on Laravel backend projects.
-- 🌱 Learning: **Spring Boot + Kotlin**, testing with **PHPUnit / Pest**, and **AI / LLM integrations (MCP)**.
-- 🌎 Available for **100% remote** work (UTC-5, overlapping with European business hours).
+- 🏢 Actualmente: Full Stack Developer en **Tecbaco** (Laravel + Vue.js) — software agrícola y reportes con Highcharts.
+- 💼 También trabajo como freelance en proyectos backend con Laravel.
+- 🌱 Aprendiendo: **Spring Boot + Kotlin**, testing con **PHPUnit / Pest** e integraciones de **IA / LLM (MCP)**.
+- 🌎 Disponible para trabajo **100% remoto** (UTC-5, con solapamiento con horario de España).
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Proyectos destacados
 
-| Project | What it does | Stack |
+| Proyecto | Qué hace | Stack |
 |---|---|---|
-| **Membership management platform** | Members, groups, meetings and attendance for an organization. In production with ~8,700 members and ~13 million attendance records. | Laravel · MySQL · CloudPanel |
-| **Operations system for a services company** | Replaces Excel and Google Calendar: proposals, clients, scheduled tasks, billing, weekly payroll, loans, inventory and routes. | Laravel · Vue.js |
-| **Agricultural software** | Data entry and control for farms, plots and pests (banana, plantain, avocado, lime) plus a reporting and charts module. | Laravel · Vue.js · Highcharts |
-| **AI-powered BI agent** | An agent that answers business questions over company data. | Spring Boot · Kotlin · LLM |
+| **Plataforma de gestión de miembros** | Miembros, grupos, reuniones y asistencia para una organización. En producción con ~8.700 miembros y ~13 millones de registros de asistencia. | Laravel · MySQL · CloudPanel |
+| **Sistema operativo para empresa de servicios** | Reemplaza Excel y Google Calendar: propuestas, clientes, tareas programadas, cobros, nómina semanal, préstamos, inventario y rutas. | Laravel · Vue.js |
+| **Software agrícola** | Carga y control de fincas, parcelas y plagas (banano, plátano, aguacate, limón) + módulo de reportes y gráficas. | Laravel · Vue.js · Highcharts |
+| **Agente de BI con IA** | Agente que responde preguntas de negocio sobre datos de la empresa. | Spring Boot · Kotlin · LLM |
 
-> Most of these projects are private (client code). I'm happy to walk through them in an interview.
+> La mayoría de estos proyectos son privados (código de clientes). Con gusto los muestro en una entrevista.
 
 ---
 
@@ -53,19 +53,19 @@ Systems Engineer (Universidad del Magdalena) with **5+ years** building web appl
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Databases**
+**Bases de datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-**DevOps & tools**
+**DevOps & herramientas**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Quality & AI**
+**Calidad & IA**
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-F472B6?style=flat-square&logo=php&logoColor=white)
 ![PHPStan](https://img.shields.io/badge/PHPStan_/_Larastan-4F5B93?style=flat-square&logo=php&logoColor=white)
@@ -73,7 +73,7 @@ Systems Engineer (Universidad del Magdalena) with **5+ years** building web appl
 
 ---
 
-### 📊 Stats
+### 📊 Estadísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcelino2017&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
@@ -82,4 +82,4 @@ Systems Engineer (Universidad del Magdalena) with **5+ years** building web appl
 
 ---
 
-<p align="center"><i>Have a project or a remote role? Reach out — I reply fast.</i></p>
+<p align="center"><i>¿Tienes un proyecto o una vacante remota? Escríbeme — respondo rápido.</i></p>
