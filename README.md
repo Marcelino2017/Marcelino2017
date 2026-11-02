@@ -76,8 +76,11 @@ Systems Engineer (Universidad del Magdalena) with **5+ years** building web appl
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcelino2017&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelino2017&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details"/>
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
+  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language"/>
 </p>
 
 ---
