@@ -70,6 +70,8 @@ Systems Engineer (Universidad del Magdalena) with **5+ years** building web appl
 ![Pest](https://img.shields.io/badge/Pest-F472B6?style=flat-square&logo=php&logoColor=white)
 ![PHPStan](https://img.shields.io/badge/PHPStan_/_Larastan-4F5B93?style=flat-square&logo=php&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
