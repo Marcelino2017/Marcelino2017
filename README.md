@@ -73,16 +73,4 @@ Systems Engineer (Universidad del Magdalena) with **5+ years** building web appl
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details"/>
-</p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
-  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language"/>
-</p>
-
----
-
 <p align="center"><i>Have a project or a remote role? Reach out — I reply fast.</i></p>
